@@ -305,7 +305,7 @@
     <div class="section-title share">Share and Donate</div>
     <div style="margin-bottom: 24px;">
       Thanks to our members and volunteers (Wenjin Feng and Yuelin Peng) for contributions to this newsletter.<br>
-      To share information or research with the community, submit it through <strong>\"Share\"</strong> below. We will include it if the content is deemed appropriate.<br>
+      To share information or research with the community, submit it through <strong>"Share"</strong> below. We will include it if the content is deemed appropriate.<br>
       Support our efforts to make free and useful financial education content by donating to @stonyfinlab via Venmo!
       <div style="text-align:center; margin-top: 16px;">
         <a href="https://stonyfinlab.org/share-information-or-research/" class="cta" target="_blank" rel="noopener">Share</a>
@@ -334,4 +334,3 @@
   </div>
 </body>
 </html>
-
